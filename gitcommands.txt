@@ -1,0 +1,6 @@
+git init
+git status
+git add <filename>
+git add <directory>
+git add -A
+git rm --cached <filename> //to untracked the file or unstage the file from staging area
